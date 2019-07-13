@@ -2,4 +2,8 @@
 a selection of small projects and katas in javascript
 
 ## password
-creates a random password of a fixed length which contains any letter (in upper or lower case) or number.
+creates a random password of fixed length which contains letters (in upper or lower case) or numbers.
+
+~~~~
+generatePassword() // a4rTyH89rfjHB66
+~~~~
