@@ -5,5 +5,12 @@ a selection of small projects and katas in javascript
 creates a random password of fixed length which contains letters (in upper or lower case) or numbers.
 
 ~~~~
-generatePassword() // a4rTyH89rfjHB66
+generatePassword() // 'a4rTyH89rfjHB66'
+~~~~
+
+## reverse
+reverses a given string.
+
+~~~~
+reverse('hello world') //'dlrow olleh'
 ~~~~
